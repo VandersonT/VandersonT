@@ -26,4 +26,4 @@
 <img align="right" alt="Vanderson-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/892924915794186253/892927570604068914/1c161055a12c8ca0fbe11a95c606ef17.gif">
 
     
-    ![Snake animation](https://github.com/VandersonT/VandersonT/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/rafaballerini/VandersonT/blob/output/github-contribution-grid-snake.svg)
