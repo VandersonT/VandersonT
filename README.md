@@ -1,7 +1,5 @@
 ### Opa, sou o Vanderson 👋
 
-- 🔭 Hoje trabalhando com fron-end e back-end
-- 🌱 Estudando Laravel
 - 📫 Email: vandersontpaulo@gmail.com
 
 <div align="center">
