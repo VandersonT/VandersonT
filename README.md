@@ -21,10 +21,9 @@
     <img align="center" alt="Vanderson-BootsTrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
       <img align="center" alt="Vanderson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img align="center" alt="Vanderson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+      <img align="right" alt="Vanderson-pic" height="150" style="border-radius:50px;" src="https://blog.csptecnologia.com/wp-content/uploads/2021/03/AnyConv.com__coder-illustration.png">
 </div>
   
   ##
-
-<img align="right" alt="Vanderson-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/892924915794186253/892927570604068914/1c161055a12c8ca0fbe11a95c606ef17.gif">
 
 ![Snake animation](https://github.com/VandersonT/VandersonT/blob/output/github-contribution-grid-snake.svg)
