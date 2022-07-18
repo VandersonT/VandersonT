@@ -21,7 +21,8 @@
     <img align="center" alt="Vanderson-BootsTrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
       <img align="center" alt="Vanderson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img align="center" alt="Vanderson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-      <img align="right" alt="Vanderson-pic" height="150" style="border-radius:50px;" src="https://blog.csptecnologia.com/wp-content/uploads/2021/03/AnyConv.com__coder-illustration.png">
+      <img align="center" alt="Vanderson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+      <img align="right" alt="Vanderson-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/josepholiveira/josepholiveira/master/images/illustration.png">
 </div>
   
   ##
