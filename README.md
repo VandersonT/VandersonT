@@ -1,8 +1,12 @@
-### Opa, tudo bom? Eu sou o Vanderson 👋
+## Opa, tudo bom? Seja bem vindo 👋
 
-- 📫 Email: vandersontpaulo@gmail.com
+Me chamo Vanderson e tenho 20 anos! Estudo desenvolvimento web a mais de 2 anos, apesar de já ter tido contato com a programação anos antes, meu interesse na parte da web começou mesmo em 2020. Desde então venho procurando me desenvovler e ser melhor a cada dia, aprimorando meus conhecimentos e aprendendo coisas novas.
 
-<div align="center">
+📫 Email: vandersontpaulo@gmail.com
+
+##
+
+<div align="center"><br/>
     <a href="https://github.com/VandersonT">
     <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=VandersonT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonT&layout=compact&langs_count=7&theme=nightowl"/>
