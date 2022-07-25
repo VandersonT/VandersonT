@@ -13,7 +13,7 @@ Me chamo Vanderson e tenho 20 anos! Estudo desenvolvimento web a mais de 2 anos,
 </div>
   
   
-  ### My skills. 🧰
+  ### Minhas Skills. 🧰
     
     
 Front-End<br/>
