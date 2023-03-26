@@ -1,6 +1,6 @@
 ## Opa, tudo bom? Seja bem vindo 👋
 
-Me chamo Vanderson e tenho 20 anos! Estudo desenvolvimento web a mais de 2 anos, apesar de já ter tido contato com a programação anos antes, meu interesse na parte da web começou mesmo em 2020. Desde então venho procurando me desenvovler e ser melhor a cada dia, aprimorando meus conhecimentos e aprendendo coisas novas.
+Meu nome é Vanderson e tenho 20 anos. Há mais de dois anos estou estudando desenvolvimento web, embora tenha tido contato com a programação há alguns anos. Foi em 2020 que meu interesse pela área da web se intensificou. Desde então, venho me empenhando em me desenvolver e aprimorar meus conhecimentos, buscando aprender coisas novas todos os dias.
 
 📫 Email: vandersontpaulo@gmail.com
 
@@ -25,11 +25,13 @@ Front-End<br/>
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+    
 <br/>Back-End<br/>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 <br/>Data Base<br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    
 <br/>Outros<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
