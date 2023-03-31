@@ -8,10 +8,11 @@ Meu nome é Vanderson e tenho 20 anos. Há mais de dois anos estou estudando des
 
 <div align="center"><br/>
     <a href="https://github.com/VandersonT">
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=VandersonT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonT&layout=compact&langs_count=7&theme=nightowl"/>
+    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=VandersonT&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonT&layout=compact&langs_count=7&theme=outrun"/>
+<br/><br/>
+<img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VandersonT&theme=outrun&hide_border=false"/>
 </div>
-  
   
   ### Minhas Skills. 🧰
     
