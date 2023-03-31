@@ -4,7 +4,7 @@ Meu nome é Vanderson e tenho 20 anos. Há mais de dois anos estou estudando des
 
 📫 Email: vandersontpaulo@gmail.com
 
-##
+<br/>
 
 <div align="center"><br/>
     <a href="https://github.com/VandersonT">
@@ -14,10 +14,12 @@ Meu nome é Vanderson e tenho 20 anos. Há mais de dois anos estou estudando des
 <img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VandersonT&theme=outrun&hide_border=false"/>
 </div>
   
-  ### Minhas Skills. 🧰
+ <br/><br/>
+    
+  ## 🧰 Minhas Skills.
     
     
-Front-End<br/>
+#### Front-End:<br/>
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,13 +29,20 @@ Front-End<br/>
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
     
-<br/>Back-End<br/>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-<br/>Data Base<br/>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     
-<br/>Outros<br/>
+#### Back-End:<br/>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+    
+    
+    
+#### Banco de Dados:<br/>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+    
+    
+#### Outros:<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
