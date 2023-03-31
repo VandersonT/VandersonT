@@ -1,6 +1,6 @@
 ## Opa, tudo bom? Seja bem vindo 👋
 
-Meu nome é Vanderson e tenho 20 anos. Há mais de dois anos estou estudando desenvolvimento web, embora tenha tido contato com a programação há alguns anos. Foi em 2020 que meu interesse pela área da web se intensificou. Desde então, venho me empenhando em me desenvolver e aprimorar meus conhecimentos, buscando aprender coisas novas todos os dias.
+Meu nome é Vanderson e tenho 21 anos. Há mais de dois anos estou estudando desenvolvimento web, embora tenha tido contato com a programação há alguns anos. Foi em 2020 que meu interesse pela área da web se intensificou. Desde então, venho me empenhando em me desenvolver e aprimorar meus conhecimentos, buscando aprender coisas novas todos os dias.
 
 📫 Email: vandersontpaulo@gmail.com
 
