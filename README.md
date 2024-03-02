@@ -20,14 +20,17 @@ I'm Vanderson, 22 years old, diving into the world of web development for a litt
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VandersonT&bg_color=000000&color=ffffff&line=4B0082&point=4B0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=VandersonT&theme=midnight-purple&hide_border=true"/>
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=VandersonT&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=ffffff&bg_color=000000" alt="VandersonT github stats" /> 
-    
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonT&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=000000" />
+
+<div align="center">
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=VandersonT&theme=midnight-purple&hide_border=true">
   
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=VandersonT&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=ffffff&bg_color=000000">
+ 
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonT&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=000000">
 </div>
+
+
+
 
 <!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VandersonT&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
