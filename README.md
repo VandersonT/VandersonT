@@ -1,22 +1,35 @@
-## Opa, tudo bom? Seja bem vindo 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-Meu nome é Vanderson e tenho 21 anos. Há mais de dois anos estou estudando desenvolvimento web, embora tenha tido contato com a programação há alguns anos. Foi em 2020 que meu interesse pela área da web se intensificou. Desde então, venho me empenhando em me desenvolver e aprimorar meus conhecimentos, buscando aprender coisas novas todos os dias.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HEY%2C+How's+it+going?%3B+I'm+Vanderson,+i'm+22+years+old%3B+I'm+from+Brazil%3B+I'm+a+Student+of+Information+System%3B+Be+Welcome+to+my+Github!+%3A%29)](https://git.io/typing-svg)
 
-📫 Email: vandersontpaulo@gmail.com
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VandersonT&bg_color=000000&color=ffffff&line=4B0082&point=4B0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>
-
-<div align="center"><br/>
-    <a href="https://github.com/VandersonT">
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=VandersonT&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonT&layout=compact&langs_count=7&theme=outrun"/>
-<br/><br/>
-<img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VandersonT&theme=outrun&hide_border=false"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VandersonT&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=ffffff&bg_color=000000" alt="VandersonT github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonT&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=000000" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VandersonT&theme=midnight-purple&hide_border=true"/> <!--height="180em"-->
 </div>
+<!--<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VandersonT&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>-->
+
+<br/><br/>
+    
+## Hey, how's it going? Welcome to my corner of the internet! 👋
+
+I'm Vanderson, 22 years old, diving into the world of web development for a little over three years now. While I've been tinkering with programming for a bit longer, it was in 2020 that I caught the web bug big time! Since then, I've been on a mission to level up my skills and explore new horizons every single day.
+
+[![Portfoglio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://vandersonpaulo.com)
+[![Mail](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandersontpaulo@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-tiago-a2b807234/)
+[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanderson_thiago11/)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=white)](https://www.instagram.com/vanderson_thiago11/)
+
+
   
  <br/><br/>
     
-  ## 🧰 Minhas Skills.
+  ## 🧰 My Skills.
     
     
 #### Front-End:<br/>
@@ -38,20 +51,36 @@ Meu nome é Vanderson e tenho 21 anos. Há mais de dois anos estou estudando des
     
     
     
-#### Banco de Dados:<br/>
+#### Databases:<br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-    
-    
-#### Outros:<br/>
+
+
+
+#### Others:<br/>
+![Docker](https://img.shields.io/badge/docker%20-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-  
-  ##
 
-![Snake animation](https://github.com/VandersonT/VandersonT/blob/output/github-contribution-grid-snake.svg)
+<br/><br/>
+
+## Turning coffee into code, one cup at a time! ☕💻
+<div align="center" style="display: flex; justify-content: center;">
+    <img width="30%" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" />
+    <img width="30%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{VandersonT}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
 
