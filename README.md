@@ -1,6 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HEY%2C+How's+it+going?%3B+I'm+Vanderson,+i'm+22+years+old%3B+I'm+from+Brazil%3B+I'm+a+Student+of+Information+System%3B+Be+Welcome+to+my+Github!+%3A%29)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HEY%2C+How's+it+going?%3B+Welcome+to+my+Github!+%3A%29)](https://git.io/typing-svg)-->
+
+
+
+    
+## Hey, how's it going? Welcome to my corner of the internet! 👋
+
+I'm Vanderson, 22 years old, diving into the world of web development for a little over three years now. While I've been tinkering with programming for a bit longer, it was in 2020 that I caught the web bug big time! Since then, I've been on a mission to level up my skills and explore new horizons every single day.
+
+[![Portfoglio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://vandersonpaulo.com)
+[![Mail](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandersontpaulo@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-tiago-a2b807234/)
+[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanderson_thiago11/)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=white)](https://www.instagram.com/vanderson_thiago11/)
+  
+ <br/><br/>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VandersonT&bg_color=000000&color=ffffff&line=4B0082&point=4B0082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -14,20 +30,6 @@
 </p>-->
 
 <br/><br/>
-    
-## Hey, how's it going? Welcome to my corner of the internet! 👋
-
-I'm Vanderson, 22 years old, diving into the world of web development for a little over three years now. While I've been tinkering with programming for a bit longer, it was in 2020 that I caught the web bug big time! Since then, I've been on a mission to level up my skills and explore new horizons every single day.
-
-[![Portfoglio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://vandersonpaulo.com)
-[![Mail](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandersontpaulo@gmail.com)
-[![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-tiago-a2b807234/)
-[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanderson_thiago11/)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logoColor=white)](https://www.instagram.com/vanderson_thiago11/)
-
-
-  
- <br/><br/>
     
   ## 🧰 My Skills.
     
