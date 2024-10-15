@@ -9,7 +9,7 @@
 
 I'm Vanderson, 22 years old, diving into the world of web development for a little over three years now. While I've been tinkering with programming for a bit longer, it was in 2020 that I caught the web bug big time! Since then, I've been on a mission to level up my skills and explore new horizons every single day.
 
-[![Portfoglio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://vandersonpaulo.com)
+[![Portfoglio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://vandersonpaulo.com.br)
 [![Mail](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandersontpaulo@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-paulo-a2b807234/)
 [![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanderson_thiago11/)
