@@ -7,7 +7,7 @@
     
 ## Hey, how's it going? Welcome to my corner of the internet! 👋
 
-I'm Vanderson, 22 years old, diving into the world of web development for a little over three years now. While I've been tinkering with programming for a bit longer, it was in 2020 that I caught the web bug big time! Since then, I've been on a mission to level up my skills and explore new horizons every single day.
+I'm Vanderson, 23 years old, diving into the world of web development for a little over three years now. While I've been tinkering with programming for a bit longer, it was in 2020 that I caught the web bug big time! Since then, I've been on a mission to level up my skills and explore new horizons every single day.
 
 [![Portfoglio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://vandersonpaulo.com.br)
 [![Mail](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandersontpaulo@gmail.com)
