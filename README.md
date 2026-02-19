@@ -5,9 +5,9 @@
 
 
     
-## Hey, how's it going? Welcome to my corner of the internet! 👋
+## Fala, seja bem-vindo ao meu espaço na internet. 👊
 
-I'm Vanderson, 23 years old, diving into the world of web development for a little over three years now. While I've been tinkering with programming for a bit longer, it was in 2020 that I caught the web bug big time! Since then, I've been on a mission to level up my skills and explore new horizons every single day.
+Eu sou Vanderson, tenho 24 anos e estou mergulhado no mundo do desenvolvimento web há cerca de 6 anos. Embora eu já estivesse mexendo com programação desde 2018, foi em 2020 que eu realmente me apaixonei pelo universo web! Desde então, estou em uma missão constante de evoluir minhas habilidades e sempre superar o meu melhor.
 
 [![Portfoglio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://vandersonpaulo.com.br)
 [![Mail](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandersontpaulo@gmail.com)
