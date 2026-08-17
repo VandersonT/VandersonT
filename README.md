@@ -17,7 +17,7 @@ Eu sou Vanderson, tenho 24 anos e estou mergulhado no mundo do desenvolvimento w
 
 <div align="center">
 
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=VandersonT&theme=github-dark-blue&hide_border=true">
+  <!--<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=VandersonT&theme=github-dark-blue&hide_border=true">-->
 
   <!--<img width="40%" src="https://github-readme-stats.vercel.app/api?username=VandersonT&show_icons=true&count_private=true&hide_border=true&title_color=0D47A1&icon_color=1565C0&text_color=ffffff&bg_color=000000">-->
 
