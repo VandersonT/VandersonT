@@ -1,15 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=120&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=120&section=header"/>-->
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0D47A1&size=35&center=true&vCenter=true&width=1000&lines=HEY%2C+How's+it+going?%3B+Welcome+to+my+Github!+%3A%29)](https://git.io/typing-svg)-->
 
-## Fala, seja bem-vindo ao meu espaço na internet. 👊
-
-Eu sou Vanderson, tenho 24 anos e estou mergulhado no mundo do desenvolvimento web há cerca de 6 anos. Embora eu já estivesse mexendo com programação desde 2018, foi em 2020 que eu realmente me apaixonei pelo universo web! Desde então, estou em uma missão constante de evoluir minhas habilidades e sempre superar o meu melhor.
+## Olá! 👊
+### Meu nome é Vanderson Paulo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D47A1?style=for-the-badge&logo=firefox&logoColor=white)](https://vandersonpaulo.com.br)
 [![Mail](https://img.shields.io/badge/email-1565C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandersontpaulo@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-paulo-a2b807234/)
 [![Instagram](https://img.shields.io/badge/instagram-1E88E5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vanderson_thiago11/)
+
+- 🎓 Bacharel em Sistemas de Informação
+- 💻 Desenvolvedor de Software Full-Stack
+- 🧠 Sempre estudando arquitetura, backend, infraestrutura e boas práticas
+- ⚡ No mundo da programação desde 2018
 
 <br/><br/>
 
@@ -38,10 +42,10 @@ Eu sou Vanderson, tenho 24 anos e estou mergulhado no mundo do desenvolvimento w
 ![Next](https://img.shields.io/badge/next.js-0D47A1?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-1E88E5?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1565C0?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-0A66C2?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!--![Bootstrap](https://img.shields.io/badge/bootstrap-0A66C2?style=for-the-badge&logo=bootstrap&logoColor=white)-->
 
 #### Back-End
-![PHP](https://img.shields.io/badge/php-0D47A1?style=for-the-badge&logo=php&logoColor=white)
+<!--![PHP](https://img.shields.io/badge/php-0D47A1?style=for-the-badge&logo=php&logoColor=white)-->
 ![Node](https://img.shields.io/badge/Node.js-1565C0?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-1E88E5?style=for-the-badge&logo=express&logoColor=white)
 
@@ -52,9 +56,9 @@ Eu sou Vanderson, tenho 24 anos e estou mergulhado no mundo do desenvolvimento w
 #### Others
 ![Docker](https://img.shields.io/badge/docker-1565C0?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-1E88E5?style=for-the-badge&logo=figma&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-0D47A1?style=for-the-badge&logo=gulp&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1565C0?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-0A66C2?style=for-the-badge&logo=git&logoColor=white)
+<!--![Gulp](https://img.shields.io/badge/Gulp-0D47A1?style=for-the-badge&logo=gulp&logoColor=white)-->
 
 <br/><br/>
 
@@ -62,4 +66,4 @@ Eu sou Vanderson, tenho 24 anos e estou mergulhado no mundo do desenvolvimento w
     <img width="30%" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=120&section=footer"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=120&section=footer"/>-->
